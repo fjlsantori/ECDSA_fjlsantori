@@ -1,2 +1,2 @@
-# BlockCrypto
-Repository for Alchemy University Blockchain Cryptography projects
+# ECDSA_fjlsantori
+Repository for Alchemy University Blockchain Cryptography project ECDSA Week1
